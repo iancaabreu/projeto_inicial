@@ -1,13 +1,8 @@
-#
-Bootcamp Focado em Python, SQL, Git e GitHub
-## sub-titulo 
-Esse é o meu primeiro README
-
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
+#Documentação do bootcamp da jornada de dados focada em pyhton, sql e git.
+## Esse é o meu primeiro README
 
 
 
-![alt text](image-1.png)
+Como executar
+Para executar os programas das aulas, você precisa do Python instalado em seu sistema.
+
