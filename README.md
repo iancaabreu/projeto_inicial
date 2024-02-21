@@ -1,5 +1,5 @@
-#Python
-
+#
+Bootcamp Focado em Python, SQL, Git e GitHub
 ## sub-titulo 
 Esse é o meu primeiro README
 
