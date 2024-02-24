@@ -3,6 +3,6 @@
 
 
 
-Como executar
+
 Para executar os programas das aulas, você precisa do Python instalado em seu sistema.
 
